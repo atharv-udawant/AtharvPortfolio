@@ -72,7 +72,7 @@
     <div class="row">
       <div class="container-fluid" data-aos="fade-up">
         <div class="row" style="display: flex; justify-content: center">
-          <a href="mailto:anujbarave@gmail.com" target="_blank"
+          <a href="mailto:udawantatharv321@gmail.com" target="_blank"
             ><svg
               class="social-img"
               xmlns="http://www.w3.org/2000/svg"
